@@ -6,7 +6,7 @@ A unified Python-based tool that automates the entire topographic analysis workf
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 🎯 Features
+##  Features
 
 - **One-Click Processing**: Upload DEM, get all outputs in 5-10 minutes
 - **Zero Licensing Costs**: Built on free, open-source tools (GDAL, Python)
@@ -14,7 +14,7 @@ A unified Python-based tool that automates the entire topographic analysis workf
 - **Offline-Capable**: Runs on any computer, no cloud dependency
 - **Multiple Export Formats**: CSV, KML, Shapefile, DXF
 
-## 📦 Output Datasets
+## Output Datasets
 
 | Dataset | Description | Format |
 |---------|-------------|--------|
@@ -56,7 +56,7 @@ streamlit run app.py
 
 The app will open in your browser at `http://localhost:8501`
 
-## 🌐 Deployment Options
+## Deployment Options
 
 ### Streamlit Cloud (Free - Best Option)
 - **Pros**: Free, easy setup, handles GDAL dependencies automatically
