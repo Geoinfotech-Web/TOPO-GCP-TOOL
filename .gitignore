@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Output files (for local testing)
+outputs/
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

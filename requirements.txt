@@ -1,0 +1,29 @@
+# Topographic Survey GCP Generation Tool
+# Dependencies
+
+# Core
+streamlit>=1.28.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Geospatial - Raster Processing
+rasterio>=1.3.0
+GDAL>=3.6.0
+
+# Geospatial - Vector Processing
+fiona>=1.9.0
+shapely>=2.0.0
+geopandas>=0.14.0
+
+# Scientific Computing
+scipy>=1.11.0
+matplotlib>=3.7.0
+
+# CAD Export
+ezdxf>=1.1.0
+
+# Optional - PDF Reports
+reportlab>=4.0.0
+
+# Optional - Additional formats
+pyproj>=3.6.0
